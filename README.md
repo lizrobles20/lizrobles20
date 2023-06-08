@@ -1,4 +1,4 @@
-![Night Sky - Sky of June](https://github.com/lizrobles20/lizrobles20/assets/60887109/719e57bc-db19-4ac5-8b87-6ba200dd6c5b)
+<p align="center"><img align="center" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/c6ab213f-cf5d-4e1d-b933-e1822523eda7"/></p>
 
 <h1 align="center">Hey! 💗, I'm Lizbeth Robles</h1>
 <h3 align="center">Computer Systems Engineer | Front-End Developer | Aspiring UX Designer</h3>
