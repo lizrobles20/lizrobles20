@@ -34,7 +34,7 @@
 <a href="mailto:lizirobles20@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lizrobles20"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizrobles20&show_icons=true&locale=en&layout=compact" alt="lizrobles20" /><img align="right" height="150" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/de91b987-2981-4e87-9b76-66cbde9144c1" alt="Computer gif" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizrobles20&show_icons=true&theme=dracula&title_color=e59eff&locale=en&layout=compact" alt="lizrobles20" /><img align="right" height="150" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/de91b987-2981-4e87-9b76-66cbde9144c1" alt="Computer gif" />
 </p>
 
 
