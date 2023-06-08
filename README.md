@@ -35,9 +35,6 @@
 </p>
 
 - <h3 align="left">📊 Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizrobles20&show_icons=true&theme=dracula&title_color=e59eff&locale=en&layout=compact" alt="lizrobles20" /><img align="right" height="150" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/de91b987-2981-4e87-9b76-66cbde9144c1" alt="Computer gif" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizrobles20&show_icons=true&theme=dracula&title_color=e59eff&locale=en&layout=compact" alt="lizrobles20" /><img align="right" height="200" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/1d21d7f5-a038-4690-8d6f-1da0a1273d6a" alt="Computer gif" />
 </p>
-
-
-
 
