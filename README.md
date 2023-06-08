@@ -1,4 +1,5 @@
-<p align="center"><img align="center" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/c6ab213f-cf5d-4e1d-b933-e1822523eda7"/></p>
+<p align="center"><img align="center" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/c6ab213f-cf5d-4e1d-b933-e1822523eda7" alt="Welcome gif"/>
+</p>
 
 <h1 align="center">Hey! 💗, I'm Lizbeth Robles</h1>
 <h3 align="center">Computer Systems Engineer | Front-End Developer | Aspiring UX Designer</h3>
@@ -35,6 +36,6 @@
 </p>
 
 - <h3 align="left">📊 Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizrobles20&show_icons=true&theme=dracula&title_color=e59eff&locale=en&layout=compact" alt="lizrobles20" /><img align="right" height="200" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/1d21d7f5-a038-4690-8d6f-1da0a1273d6a" alt="Computer gif" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizrobles20&show_icons=true&theme=dracula&title_color=e59eff&locale=en&layout=compact" alt="lizrobles20" /><img align="right" height="200" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/1d21d7f5-a038-4690-8d6f-1da0a1273d6a" alt="8bit-PC-logo | Capsule Computers - Gaming & Entertainment News, Reviews, Interviews & Competitions www.capsulecomputers.com.au" />
 </p>
 
