@@ -22,7 +22,7 @@
 
 <h3>👩‍💻 Currently learning:</h3>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 <h3 align="left">🚀 Connect with me:</h3>
 <p align="left">
