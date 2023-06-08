@@ -1,4 +1,5 @@
-![banner-linkedin](https://github.com/lizrobles20/lizrobles20/assets/60887109/3c84224b-44cb-448a-8bdd-96b5a5bec32b)
+![Night Sky - Sky of June](https://github.com/lizrobles20/lizrobles20/assets/60887109/719e57bc-db19-4ac5-8b87-6ba200dd6c5b)
+
 <h1 align="center">Hey! 💗, I'm Lizbeth Robles</h1>
 <h3 align="center">Computer Systems Engineer | Front-End Developer | Aspiring UX Designer</h3>
 
@@ -33,4 +34,9 @@
 <a href="mailto:lizirobles20@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lizrobles20"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizrobles20&show_icons=true&locale=en&layout=compact" alt="lizrobles20" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizrobles20&show_icons=true&locale=en&layout=compact" alt="lizrobles20" /><img align="right" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/de91b987-2981-4e87-9b76-66cbde9144c1" alt="Computer gif" />
+</p>
+
+
+
+
