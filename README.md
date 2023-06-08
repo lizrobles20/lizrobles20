@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👩‍💻, I'm Lizbeth Robles</h1>
-<h3 align="center">Computer Systems Engineer | FrontEnd Developer | Aspiring UX Designer</h3>
+![banner-linkedin](https://github.com/lizrobles20/lizrobles20/assets/60887109/3c84224b-44cb-448a-8bdd-96b5a5bec32b)
+
+<h1 align="center">Hey! 👩‍💻, I'm Lizbeth Robles</h1>
+<h3 align="center">Computer Systems Engineer | Front-End Developer | Aspiring UX Designer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
