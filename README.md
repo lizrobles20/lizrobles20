@@ -2,7 +2,10 @@
 <h1 align="center">Hey! 💗, I'm Lizbeth Robles</h1>
 <h3 align="center">Computer Systems Engineer | Front-End Developer | Aspiring UX Designer</h3>
 
-<h3>⚒️ My tech stack</h3>
+<h3>Get to know me 👋</h3>
+<p>I am a dedicated professional who has worked on software, web and mobile application development projects. Currently searching for new opportunities to test my knowledge and skills.</p>
+
+<h3>⚒️ My tech stack:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h3>👾 My workspace</h3>
+<h3>👾 My workspace:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
