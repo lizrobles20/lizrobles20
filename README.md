@@ -5,7 +5,7 @@
 <h3 align="center">Computer Systems Engineer | Front-End Developer | Aspiring UX Designer</h3>
 
 - <h3>Get to know me 👋</h3>
-<p>I'm a dedicated professional who has worked on software, web and mobile application development projects. Currently searching for new opportunities to test my knowledge and skills. I'm also taking the Google UX Design Certificate through Coursera.</p>
+<p>Dedicated professional who has worked on software, web and mobile application development projects. Currently searching for new opportunities to test my knowledge and skills. Also taking the Google UX Design Certificate through Coursera.</p>
 
 - <h3>⚒️ My tech stack:</h3>
 
