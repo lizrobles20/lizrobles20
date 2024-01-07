@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://github.com/lizrobles20/lizrobles20/assets/60887109/c6ab213f-cf5d-4e1d-b933-e1822523eda7" alt="Welcome gif"/>
 </p>
 
-<h1 align="center">Hey! 💗, I'm Lizbeth</h1>
+<h1 align="center">Hey! 💗 I'm Lizbeth</h1>
 <h3 align="center">Computer Systems Engineer | Web Developer</h3>
 
 - <h3>Get to know me 👋</h3>
