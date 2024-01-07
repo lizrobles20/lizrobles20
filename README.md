@@ -2,7 +2,7 @@
 </p>
 
 <h1 align="center">Hey! 💗 I'm Lizbeth</h1>
-<h3 align="center">Computer Systems Engineer | Web Developer</h3>
+<h2 align="center">Computer Systems Engineer | Web Developer</h2>
 
 - <h3>Get to know me 👋</h3>
 <p>Dedicated professional who has worked on software, web and mobile application development projects. Currently searching for new opportunities to test my knowledge and skills.</p>
